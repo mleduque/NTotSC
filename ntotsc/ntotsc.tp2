@@ -8,7 +8,7 @@
 
 BACKUP ~weidu_external/backup/ntotsc~
 AUTHOR ~http://www.shsforums.net/forum/202-dsotsc-bgt/~
-VERSION ~5.1.0~
+VERSION ~5.0.0~ 
 README ~ntotsc/docs/[%LANGUAGE%]ReadMe-NTotSC.txt~ ~ntotsc/docs/ReadMe-NTotSC.txt~
 AUTO_TRA ~ntotsc/language/%s/D~
 ASK_EVERY_COMPONENT
@@ -1123,6 +1123,7 @@ END
 COPY ~%MOD_FOLDER%/bgee/ORC04.cre~ ~override/ntorc04.cre~
 	SAY NAME1 @524
 	SAY NAME2 @524
+	WRITE_BYTE 0x234 10 // set level
 	WRITE_BYTE 0x234 10 // set level
 
 ACTION_IF NOT FILE_EXISTS_IN_GAME ~ORC05.cre~ THEN BEGIN
