@@ -1,20 +1,20 @@
 // #15043
-@0    = ~Je me sens encore un peu étourdi mais je devrais pouvoir retourner à Bérégost par mes propres moyens. Tenez, prenez ma hache. De toute façon, c'est trop lourd à porter pour moi en ce moment.~
+@0    = ~Je me sens encore un peu ï¿½tourdi mais je devrais pouvoir retourner ï¿½ Bï¿½rï¿½gost par mes propres moyens. Tenez, prenez ma hache. De toute faï¿½on, c'est trop lourd ï¿½ porter pour moi en ce moment.~
 // #15737
 /* @1 -> @10027 */   
 // #15064
-@2    = ~Vous avez été généreux avec votre guérison... Ici, ces gnolls n'ont pas trouvé cette vieille amulette que je garde dans ma botte. J'espère que c'est une récompense suffisante pour votre gentillesse. Si jamais vous souhaitez passer nous rendre visite, j'ai un logement à Bérégost.~ ~Vous avez été généreuse avec votre guérison... Ici, ces gnolls n'ont pas trouvé cette vieille amulette que je garde dans ma botte. J'espère que c'est une récompense suffisante pour votre gentillesse. Si jamais vous souhaitez passer nous rendre visite, j'ai un logement à Bérégost.~
+@2    = ~Vous avez ï¿½tï¿½ gï¿½nï¿½reux avec votre guï¿½rison... Ici, ces gnolls n'ont pas trouvï¿½ cette vieille amulette que je garde dans ma botte. J'espï¿½re que c'est une rï¿½compense suffisante pour votre gentillesse. Si jamais vous souhaitez passer nous rendre visite, j'ai un logement ï¿½ Bï¿½rï¿½gost.~ ~Vous avez ï¿½tï¿½ gï¿½nï¿½reuse avec votre guï¿½rison... Ici, ces gnolls n'ont pas trouvï¿½ cette vieille amulette que je garde dans ma botte. J'espï¿½re que c'est une rï¿½compense suffisante pour votre gentillesse. Si jamais vous souhaitez passer nous rendre visite, j'ai un logement ï¿½ Bï¿½rï¿½gost.~
 // #15738
 /* @3 -> @10028 */   
 // #15082
-@4    = ~Vous avez été plus que gentil avec un nain rude et battu. Ma sœur Nacha, est un clerc du quartier sud de la Porte de Baldur. Si jamais vous avez besoin de cette faveur, trouvez-la là-bas et elle vous guérira.~ ~Vous avez été plus que gentille avec un nain rude et battu. Ma sœur Nacha, est un clerc du quartier sud de la Porte de Baldur. Si jamais vous avez besoin de cette faveur, trouvez-la là-bas et elle vous guérira.~
+@4    = ~Vous avez ï¿½tï¿½ plus que gentil avec un nain rude et battu. Ma sï¿½ur Nacha, est un clerc du quartier sud de la Porte de Baldur. Si jamais vous avez besoin de cette faveur, trouvez-la lï¿½-bas et elle vous guï¿½rira.~ ~Vous avez ï¿½tï¿½ plus que gentille avec un nain rude et battu. Ma sï¿½ur Nacha, est un clerc du quartier sud de la Porte de Baldur. Si jamais vous avez besoin de cette faveur, trouvez-la lï¿½-bas et elle vous guï¿½rira.~
 // #15739
 /* @5 -> @10029 */   
 // #15083
-@6    = ~Ma jambe... (gémissement)... maudits gnolls... S'il vous plaît... guérissez-moi... (gémissement)... même un tout petit peu... Ça fait tellement... mal. .. (gémissement) ~
+@6    = ~Ma jambe... (gï¿½missement)... maudits gnolls... S'il vous plaï¿½t... guï¿½rissez-moi... (gï¿½missement)... mï¿½me un tout petit peu... ï¿½a fait tellement... mal. .. (gï¿½missement) ~
 // #15084
-@7    = ~Les os se solidifient très bien. La prochaine fois, je devrai emmener quelques amis avec moi lorsque je pars à la chasse aux gnolls.~
+@7    = ~Les os se solidifient trï¿½s bien. La prochaine fois, je devrai emmener quelques amis avec moi lorsque je pars ï¿½ la chasse aux gnolls.~
 // #15085
-@8    = ~(gémissement)...~
+@8    = ~(gï¿½missement)...~
 // #15086
-@9    = ~D'abord vous me guérissez, maintenant vous voulez me tuer. Je ne comprends pas le fonctionnement de votre esprit, mais que je sois damné si je vais vous laisse vous en sortir comme ça.~
+@9    = ~D'abord vous me soignez, maintenant vous voulez me tuer. Je ne comprends pas le fonctionnement de votre esprit, mais je ne te laisserai pas vous en tirer comme ï¿½a.~
